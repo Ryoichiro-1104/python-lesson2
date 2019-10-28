@@ -1,0 +1,14 @@
+.header {
+    background-color:#26d0c9;
+    height:90px;
+    color:#fff;
+}
+.header-logo {
+    float:left;
+    margin-left:40px;
+}
+.header-list li {
+    float:left;
+    list-style:none;
+    margin:33px 20px;
+}
